@@ -1,0 +1,5 @@
+.login__btn {
+    cursor: pointer;
+    margin: auto;
+    display: flex;
+}
